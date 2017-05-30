@@ -5,7 +5,7 @@
 codesh online olarak kodlarınızı kod yapıştırma servislerine yükler ve hazır linkleri sizlere sunar.
 
   - Hızlı ve Pratiktir.
-  - 3 Paste Sitesini Destekeler.
+  - 3 Paste Sitesini Destekler.
   - 8 Dil Destekler.
 
 # Neler Eklecek?
