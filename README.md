@@ -22,7 +22,9 @@ Hangi Siteleri Destekliyor?
 Kodlarınızı istediğiniz dilde yada normal text olarak kaydedin.
 
 # Kurulum
+```sh
+~$ git clone https://github.com/MuReCoder/codesh.git && cd codesh
+~$ sudo mv codesh.py /usr/bin/codesh
+~$ sudo chmod +x /usr/bin/codesh
+```
 
-> ~$ git clone https://github.com/MuReCoder/codesh.git && cd codesh
-> ~$ sudo mv codesh.py /usr/bin/codesh
-> ~$ sudo chmod +x /usr/bin/codesh
